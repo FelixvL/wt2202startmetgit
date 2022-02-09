@@ -1,5 +1,7 @@
 
+repository
 
-
-
+cmd shift .
 hoi
+
+hier geniaal statement
